@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://tvanlaar.github.io/pdfs/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/shmoomaster/shmoomaster.github.io/blob/ecd3c921cbb3abd421d4960203b81b8df4d24dcd/CV_CodyFondse_4.11.24_Bioinfo'.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Bioinformatics', 'Teaching'
